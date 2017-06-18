@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.1)  17 JUN 2017 19:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.1)  18 JUN 2017 17:21
 entering extended mode
 **./relazioneWim.tex
 (relazioneWim.tex
@@ -604,11 +604,7 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 77--78
  []
 
 [3 <./images/home.png>] [4 <./images/home2.png>] [5 <./images/home3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 87--91
-
- []
-
-[6] (relazioneWim.aux) ) 
+[6] [7] (relazioneWim.aux) ) 
 Here is how much of TeX's memory you used:
  14073 strings out of 493333
  268863 string characters out of 3139192
@@ -617,13 +613,13 @@ Here is how much of TeX's memory you used:
  10725 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,56p,807b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmc
-sc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on relazioneWim.pdf (7 pages, 814991 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on relazioneWim.pdf (8 pages, 817552 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
