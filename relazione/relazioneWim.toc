@@ -5,8 +5,6 @@
 \contentsline {subsection}{\numberline {2.1}Homepage}{3}
 \contentsline {subsection}{\numberline {2.2}Assi fondamentali}{6}
 \contentsline {paragraph}{1) Where}{6}
-\contentsline {paragraph}{2) What}{6}
-\contentsline {paragraph}{3) Who}{6}
-\contentsline {paragraph}{4) Why}{6}
-\contentsline {paragraph}{5) When}{7}
-\contentsline {paragraph}{6) How}{7}
+\contentsline {paragraph}{2) Who}{6}
+\contentsline {paragraph}{3) Why}{6}
+\contentsline {paragraph}{4) What}{6}
