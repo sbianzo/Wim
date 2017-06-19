@@ -10,3 +10,5 @@
 \contentsline {paragraph}{4) Why}{6}
 \contentsline {paragraph}{5) When}{7}
 \contentsline {paragraph}{6) How}{7}
+\contentsline {paragraph}{Considerazioni}{7}
+\contentsline {section}{\numberline {3}Pagine interne}{8}
