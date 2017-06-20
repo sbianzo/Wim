@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.1)  20 JUN 2017 00:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.1)  21 JUN 2017 00:09
 entering extended mode
 **./relazioneWim.tex
 (relazioneWim.tex
@@ -156,6 +156,10 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box28
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
 Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
 Package: todonotes 2012/07/25
@@ -201,7 +205,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
 x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
-\pgfutil@abb=\box28
+\pgfutil@abb=\box29
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -269,7 +273,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen125
 \pgfmath@count=\count113
-\pgfmath@box=\box29
+\pgfmath@box=\box30
 \pgfmath@toks=\toks34
 \pgfmath@stack@operand=\toks35
 \pgfmath@stack@operation=\toks36
@@ -327,9 +331,9 @@ File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
 "
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box30
-\pgf@hbox=\box31
-\pgf@layerbox@main=\box32
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
 \pgf@picture@serial@count=\count115
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
@@ -371,7 +375,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
 ex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box33
+\pgfexternal@startupbox=\box34
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
 "
@@ -387,7 +391,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box34
+\pgfnodeparttextbox=\box35
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
@@ -429,10 +433,10 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@lastysaved=\dimen158
 \tikzleveldistance=\dimen159
 \tikzsiblingdistance=\dimen160
-\tikz@figbox=\box35
-\tikz@figbox@bg=\box36
-\tikz@tempbox=\box37
-\tikz@tempbox@bg=\box38
+\tikz@figbox=\box36
+\tikz@figbox@bg=\box37
+\tikz@tempbox=\box38
+\tikz@tempbox@bg=\box39
 \tikztreelevel=\count118
 \tikznumberofchildren=\count119
 \tikznumberofcurrentchild=\count120
@@ -471,20 +475,20 @@ LaTeX Info: Redefining \addtolength on input line 81.
 ) (relazioneWim.aux)
 \openout1 = `relazioneWim.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Info: Redefining \it@ocap on input line 8.
-LaTeX Info: Redefining \it@ccap on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Info: Redefining \it@ocap on input line 9.
+LaTeX Info: Redefining \it@ccap on input line 9.
 
 
 File italian.ldf warning: 
@@ -492,7 +496,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 8.
+italian.ldf    on input line 9.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -501,7 +505,7 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count130
 \scratchdimen=\dimen163
-\scratchbox=\box39
+\scratchbox=\box40
 \nofMPsegments=\count131
 \nofMParguments=\count132
 \everyMPshowfont=\toks39
@@ -562,7 +566,7 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 <images/unipd_logo.png, id=4, 200.75pt x 200.75pt>
 File: images/unipd_logo.png Graphic file (type png)
  <use images/unipd_logo.png>
-Package pdftex.def Info: images/unipd_logo.png used on input line 19.
+Package pdftex.def Info: images/unipd_logo.png used on input line 20.
 (pdftex.def)             Requested size: 60.22545pt x 60.22545pt.
 
 [1
@@ -576,51 +580,75 @@ Package pdftex.def Info: images/unipd_logo.png used on input line 19.
 <images/home.png, id=21, 982.42032pt x 714.41907pt>
 File: images/home.png Graphic file (type png)
  <use images/home.png>
-Package pdftex.def Info: images/home.png used on input line 67.
+Package pdftex.def Info: images/home.png used on input line 68.
 (pdftex.def)             Requested size: 426.79134pt x 310.36644pt.
 
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 67--68
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 68--69
  [][] 
  []
 
 <images/home2.png, id=22, 758.08218pt x 710.655pt>
 File: images/home2.png Graphic file (type png)
  <use images/home2.png>
-Package pdftex.def Info: images/home2.png used on input line 72.
-(pdftex.def)             Requested size: 426.79134pt x 400.08945pt.
+Package pdftex.def Info: images/home2.png used on input line 73.
+(pdftex.def)             Requested size: 455.24408pt x 426.76497pt.
 
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 72--73
+Overfull \hbox (65.24408pt too wide) in paragraph at lines 73--74
  [][] 
  []
 
 <images/home3.png, id=23, 823.57687pt x 657.2053pt>
 File: images/home3.png Graphic file (type png)
  <use images/home3.png>
-Package pdftex.def Info: images/home3.png used on input line 77.
-(pdftex.def)             Requested size: 426.79134pt x 340.57542pt.
+Package pdftex.def Info: images/home3.png used on input line 78.
+(pdftex.def)             Requested size: 455.24408pt x 363.27911pt.
 
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 77--78
+Overfull \hbox (65.24408pt too wide) in paragraph at lines 78--79
  [][] 
  []
 
 [3 <./images/home.png>] [4 <./images/home2.png>] [5 <./images/home3.png>]
-[6] [7] [8] (relazioneWim.aux) ) 
+[6] <images/paginaInterna.png, id=38, 828.84656pt x 682.04813pt>
+File: images/paginaInterna.png Graphic file (type png)
+
+<use images/paginaInterna.png>
+Package pdftex.def Info: images/paginaInterna.png used on input line 115.
+(pdftex.def)             Requested size: 412.56496pt x 339.49336pt.
+
+Overfull \hbox (22.56496pt too wide) in paragraph at lines 115--116
+ [][] 
+ []
+
+[7] [8 <./images/paginaInterna.png>] [9]
+<images/paginaProdotto.png, id=49, 834.11626pt x 688.82344pt>
+File: images/paginaProdotto.png Graphic file (type png)
+
+<use images/paginaProdotto.png>
+Package pdftex.def Info: images/paginaProdotto.png used on input line 136.
+(pdftex.def)             Requested size: 483.69684pt x 399.4443pt.
+
+Overfull \hbox (93.69684pt too wide) in paragraph at lines 136--137
+ [][] 
+ []
+
+[10] [11 <./images/paginaProdotto.png>] (relazioneWim.aux) ) 
 Here is how much of TeX's memory you used:
- 14073 strings out of 493333
- 268863 string characters out of 3139192
- 322648 words of memory out of 3000000
- 17316 multiletter control sequences out of 15000+200000
- 10725 words of font info for 38 fonts, out of 3000000 for 9000
+ 14145 strings out of 493333
+ 270017 string characters out of 3139192
+ 323984 words of memory out of 3000000
+ 17381 multiletter control sequences out of 15000+200000
+ 10842 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,56p,807b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-
-Output written on relazioneWim.pdf (9 pages, 819777 bytes).
+<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eur
+osym/feymr10.pfb>
+Output written on relazioneWim.pdf (12 pages, 1298576 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
