@@ -20,4 +20,6 @@
 \contentsline {paragraph}{How}{9}
 \contentsline {paragraph}{Why}{9}
 \contentsline {paragraph}{When}{9}
-\contentsline {section}{\numberline {4}Pagina singolo articolo}{10}
+\contentsline {subsection}{\numberline {3.3}Pagina singolo articolo}{10}
+\contentsline {subsection}{\numberline {3.4}Pagina carrello}{12}
+\contentsline {section}{\numberline {4}Considerazioni generali}{14}

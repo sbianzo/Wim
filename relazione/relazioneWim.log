@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.1)  21 JUN 2017 00:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.1)  23 JUN 2017 17:56
 entering extended mode
 **./relazioneWim.tex
 (relazioneWim.tex
@@ -619,36 +619,51 @@ Overfull \hbox (22.56496pt too wide) in paragraph at lines 115--116
  [][] 
  []
 
-[7] [8 <./images/paginaInterna.png>] [9]
-<images/paginaProdotto.png, id=49, 834.11626pt x 688.82344pt>
+[7] [8 <./images/paginaInterna.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+[9] <images/paginaProdotto.png, id=49, 834.11626pt x 688.82344pt>
 File: images/paginaProdotto.png Graphic file (type png)
 
 <use images/paginaProdotto.png>
-Package pdftex.def Info: images/paginaProdotto.png used on input line 136.
-(pdftex.def)             Requested size: 483.69684pt x 399.4443pt.
+Package pdftex.def Info: images/paginaProdotto.png used on input line 139.
+(pdftex.def)             Requested size: 512.1496pt x 422.95648pt.
 
-Overfull \hbox (93.69684pt too wide) in paragraph at lines 136--137
+Overfull \hbox (122.1496pt too wide) in paragraph at lines 139--140
  [][] 
  []
 
-[10] [11 <./images/paginaProdotto.png>] (relazioneWim.aux) ) 
+[10] [11 <./images/paginaProdotto.png>]
+<images/carrello.png, id=58, 794.97pt x 652.68843pt>
+File: images/carrello.png Graphic file (type png)
+ <use images/carrello.png>
+Package pdftex.def Info: images/carrello.png used on input line 150.
+(pdftex.def)             Requested size: 512.1496pt x 420.49779pt.
+
+Overfull \hbox (122.1496pt too wide) in paragraph at lines 150--151
+ [][] 
+ []
+
+[12] [13 <./images/carrello.png>] [14] (relazioneWim.aux) ) 
 Here is how much of TeX's memory you used:
- 14145 strings out of 493333
- 270017 string characters out of 3139192
- 323984 words of memory out of 3000000
- 17381 multiletter control sequences out of 15000+200000
+ 14150 strings out of 493333
+ 270124 string characters out of 3139192
+ 323986 words of memory out of 3000000
+ 17385 multiletter control sequences out of 15000+200000
  10842 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,56p,807b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eur
-osym/feymr10.pfb>
-Output written on relazioneWim.pdf (12 pages, 1298576 bytes).
+<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/euro
+sym/feymr10.pfb>
+Output written on relazioneWim.pdf (15 pages, 1404178 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
