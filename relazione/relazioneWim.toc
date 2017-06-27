@@ -1,34 +1,34 @@
 \select@language {italian}
 \select@language {italian}
-\contentsline {section}{\numberline {1}Introduzione}{2}
-\contentsline {section}{\numberline {2}Analisi delle pagine}{3}
-\contentsline {subsection}{\numberline {2.1}Homepage}{3}
-\contentsline {subsection}{\numberline {2.2}Assi fondamentali}{6}
-\contentsline {paragraph}{1) Where}{6}
-\contentsline {paragraph}{2) What}{6}
-\contentsline {paragraph}{3) Who}{6}
-\contentsline {paragraph}{4) Why}{6}
-\contentsline {paragraph}{5) When}{7}
-\contentsline {paragraph}{6) How}{7}
-\contentsline {paragraph}{Considerazioni}{8}
-\contentsline {section}{\numberline {3}Pagine interne}{9}
-\contentsline {subsection}{\numberline {3.1}Assi obbligatori}{10}
-\contentsline {paragraph}{Where}{10}
-\contentsline {paragraph}{What}{10}
-\contentsline {paragraph}{Who}{10}
-\contentsline {subsection}{\numberline {3.2}Assi opzionali consigliati}{10}
-\contentsline {paragraph}{How}{10}
-\contentsline {paragraph}{Why}{10}
-\contentsline {paragraph}{When}{10}
-\contentsline {subsection}{\numberline {3.3}Pagina singolo articolo}{11}
-\contentsline {subsection}{\numberline {3.4}Pagina carrello}{13}
-\contentsline {subsection}{\numberline {3.5}Pagina 404}{15}
-\contentsline {section}{\numberline {4}Considerazioni generali}{16}
-\contentsline {paragraph}{Design}{16}
-\contentsline {paragraph}{Testo}{16}
-\contentsline {paragraph}{Finestre e Pop-up}{16}
-\contentsline {paragraph}{Pubblicit\IeC {\`a}}{17}
-\contentsline {paragraph}{Registrazione}{17}
-\contentsline {paragraph}{Descrizione e immagini degli articoli}{17}
-\contentsline {paragraph}{Prezzo dei prodotti}{17}
-\contentsline {section}{\numberline {5}Valutazione}{18}
+\contentsline {section}{\numberline {1}Introduzione}{3}{section.1}
+\contentsline {section}{\numberline {2}Analisi delle pagine}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Homepage}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Assi fondamentali}{7}{subsection.2.2}
+\contentsline {paragraph}{1) Where}{7}{section*.3}
+\contentsline {paragraph}{2) What}{7}{section*.4}
+\contentsline {paragraph}{3) Who}{7}{section*.5}
+\contentsline {paragraph}{4) Why}{7}{section*.6}
+\contentsline {paragraph}{5) When}{8}{section*.7}
+\contentsline {paragraph}{6) How}{8}{section*.8}
+\contentsline {paragraph}{Considerazioni}{9}{section*.9}
+\contentsline {section}{\numberline {3}Pagine interne}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Assi obbligatori}{11}{subsection.3.1}
+\contentsline {paragraph}{Where}{11}{section*.10}
+\contentsline {paragraph}{What}{11}{section*.11}
+\contentsline {paragraph}{Who}{11}{section*.12}
+\contentsline {subsection}{\numberline {3.2}Assi opzionali consigliati}{11}{subsection.3.2}
+\contentsline {paragraph}{How}{11}{section*.13}
+\contentsline {paragraph}{Why}{11}{section*.14}
+\contentsline {paragraph}{When}{11}{section*.15}
+\contentsline {subsection}{\numberline {3.3}Pagina singolo articolo}{12}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Pagina carrello}{14}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Pagina 404}{16}{subsection.3.5}
+\contentsline {section}{\numberline {4}Considerazioni generali}{17}{section.4}
+\contentsline {paragraph}{Design}{17}{section*.16}
+\contentsline {paragraph}{Testo}{17}{section*.17}
+\contentsline {paragraph}{Finestre e Pop-up}{17}{section*.18}
+\contentsline {paragraph}{Pubblicit\IeC {\`a}}{18}{section*.19}
+\contentsline {paragraph}{Registrazione}{18}{section*.20}
+\contentsline {paragraph}{Descrizione e immagini degli articoli}{18}{section*.21}
+\contentsline {paragraph}{Prezzo dei prodotti}{18}{section*.22}
+\contentsline {section}{\numberline {5}Valutazione}{19}{section.5}

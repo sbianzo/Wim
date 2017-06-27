@@ -3,8 +3,8 @@
 \usepackage[utf8x]{inputenc}
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{hyperref}
 \usepackage{eurosym}
-\usepackage[colorinlistoftodos]{todonotes}
 
 \begin{document}
 	\begin{titlepage}
@@ -51,10 +51,13 @@
 	\newpage
 	\renewcommand{\contentsname}{Indice}
 	\tableofcontents
-	
+	\newpage
+	\listoffigures
 	\newpage
 	\section{Introduzione}
 	\vspace {0.5cm}
+	\textbf{Link al sito: }    \url{http://www.strumentimusicali.net/} \\
+	\\
 	Il progetto riguardante il corso di Web Information Management consiste nell'analisi di usabilità di un sito web.\\ La mia scelta riguarda un sito di e-commerce di strumenti musicali che vende, principalmente in Italia, una vasta gamma di strumenti e accessori musicali, sia professionali che amatoriali. 
 	\\
 	Il sito mi è sembrato fin da subito ben fatto e ho deciso di analizzarlo, anche per via di un acquisto di un paio di cuffie fatto qualche mese fa.
@@ -87,13 +90,14 @@
 	A prima vista si nota subito che è un sito di strumenti e accessori musicali, lo slideshow in primo piano mostra diversi prodotti musicali, come casse audio e chitarre. Non è difficile capire che è un sito che vende strumenti musicali, nel logo notiamo la scritta "Il tuo negozio di musica online", inoltre possiamo vedere gli articoli in evidenza che presentano prezzo e disponiblità.
 	\paragraph{2) What} "Cosa offre il sito? Cosa posso trovare? "
 	\\
-	L'indice del sito lo possiamo trovare in alto sotto il logo del sito. L'indice mostra le varie categorie di prodotti che offre, come chitarre, bassi, software e accessori.. \\ Nello slideshow vengono mostrati vari articoli, come novità o prodotti in notevole sconto, se clicchiamo nello slideshow verremo reindirizzati alla pagina del prodotto. Sotto lo slideshow è presente la sezione degli articoli in evidenza.
+	L'indice del sito lo possiamo trovare in alto sotto il logo del sito. L'indice mostra le varie categorie di prodotti che offre, come chitarre, bassi, software e accessori.. \\ Nello slideshow vengono mostrati vari articoli, come novità o prodotti in notevole sconto, se clicchiamo nello slideshow verremo reindirizzati alla pagina del prodotto. 
 	\paragraph{3) Who} "Chi rappresenta il sito? "
 	\\
 	In alto a sinistra possiamo notare il logo del sito dell'azienda, punto importante per l'utente che permette di identificare il nome del sito. Se clicco sopra il logo ho solamente un refresh della home. Le informazioni dell'azienda le possiamo trovare nel footer dopo diversi scroll. 
 	\paragraph{4) Why} "Perchè dovrei fermarmi su questo sito? Quali benefici mi porta?"
 	\\
 	Il perchè dovrei acquistare su questo sito non è visibile, però facendo un confronto dei prezzi che possiamo trovare in altri siti web o negozi fisici, si nota che ha dei prezzi pari o inferiori su quasi tutti i prodotti, risparmiando così diversi soldi. Inoltre è un sito specializzato con una vasta gamma di prodotti che difficilmente si può trovare in altri negozi.
+	\newpage
 	\paragraph{5) When} "Quali sono le novità del sito? "
 	\\
 	Le novità del sito le possiamo trovare sopra il menù nella sezione "Novità", cliccandoci sopra verremo reindirizzati alla pagina interna di tutti i nuovi articoli inseriti nel sito. Possiamo filtrare gli articoli in base alla categoria che ci interessa e ordinarli per prezzo crescente/decrescente o in ordine alfabetico. \\
@@ -111,12 +115,13 @@
 	La lunghezza della pagina è abbastanza elevata costringendo l'utente a fare diversi scroll per arrivare in fondo alla pagina e trovare le informazioni che cercava. Sappiamo che l'utente nel web è pigro e la maggior parte degli utenti è disposta a fare scroll per 1.3 schermi, quindi 2.3 schermi totali e di conseguenza buona parte della pagina non verrà visualizzata. 
 	\newpage
 	\section{Pagine interne}
-	Se andiamo sulla sezione delle chiatarre classiche avremo una vasta gamma di modelli di chitarre, da quelle più economiche a quelle più costose. \\ A sinistra troviamo il riquadro con le varie sottocategorie delle chitarre, più sotto troviamo le chiatarre classiche più vendute, le ultime recensioni e ancora più sotto una sezione dove poter trovare un'idea regalo scegliendo un prezzo minimo e massimo. \\ A destra possiamo trovare le sezioni per filtrare per marca e disponibilità le chitarre, aiutando così l'utente a trovare più agevolmente il modello di chitarra che più lo soddisfa.
+	Se andiamo sulla sezione delle chitarre classiche avremo una vasta gamma di modelli di chitarre, da quelle più economiche a quelle più costose. \\ A sinistra troviamo il riquadro con le varie sottocategorie delle chitarre, più sotto troviamo le chiatarre classiche più vendute, le ultime recensioni e ancora più sotto una sezione dove poter trovare un'idea regalo scegliendo un prezzo minimo e massimo. \\ A destra possiamo trovare le sezioni per filtrare per marca e disponibilità le chitarre, aiutando così l'utente a trovare più agevolmente il modello di chitarra che più lo soddisfa.
 	\begin{figure}[ht!]
 		\centering	
-		\includegraphics[width=145mm]{images/paginaInterna.png}
-		\caption{Pagina interna delle chitarre classiche}
+		\includegraphics[width=130mm]{images/paginaInterna.png}
+		\caption{Pagina interna delle chitarre classiche - \url{www.strumentimusicali.net/default.php/cPath/21_22/Chitarre/Chitarre-Classiche.html}}  
 	\end{figure}
+	\newpage
 	\subsection{Assi obbligatori}
 	\vspace{0.5cm}
 	Alcuni assi per garantire una buona usabilità devono essere obbligatori su tutte le pagine del sito:
@@ -127,7 +132,7 @@
 	\subsection{Assi opzionali consigliati}
 	\vspace{0.5cm}
 	\paragraph{How} Come arrivare ad altre sezioni del sito non cambia, il layout rimane lo stesso e possiamo spostarci su altre categorie tramite il menu in alto.
-	\paragraph{Why} Non ci sono descrizioni sul perchè dovremo acquistare su questo sito, però nelle varie pagine interne di ogni sottocategoria notiamo che alcuni articoli sono scontati.
+	\paragraph{Why} Non ci sono descrizioni sul perchè dovremo acquistare su questo sito, però nelle varie pagine interne di ogni sottocategoria notiamo che alcuni articoli sono scontati e hanno prezzi più competitivi rispetto ad altri negozi.
 	\paragraph{When} Le novità e gli ultimi arrivi li possiamo sempre trovare nell'apposita sezione sopra il menu.
 	\newpage
 	\subsection{Pagina singolo articolo}
@@ -139,7 +144,7 @@
 	 \begin{figure}
 	 	\centering	
 	 	\includegraphics[width=180mm]{images/paginaProdotto.png}
-	 	\caption{Pagina interna di una chitarra classica}
+	 	\caption{Pagina interna di una chitarra classica - \url{www.strumentimusicali.net/product_info.php/cPath/21_22/products_id/465/chitarra-classica-student.html}} 
 	 \end{figure}
  	\newpage
 	\subsection{Pagina carrello}
@@ -150,7 +155,7 @@
 	\begin{figure}
 		\centering	
 		\includegraphics[width=180mm]{images/carrello.png}
-		\caption{Pagina del carrello}
+		\caption{Pagina del carrello -  \url{www.strumentimusicali.net/shopping_cart.php}}
 	\end{figure}
 	\newpage
 	\subsection{Pagina 404}
@@ -181,7 +186,7 @@
 	In quasi tutti gli articoli sono presenti più immagini da diverse prospettive e disponibili in full-screen, fattore molto positivo in quanto l'utente, non potendolo vedere dal vivo, vuole vederlo in ogni dettaglio.
 	\\    
 	\paragraph{Prezzo dei prodotti} Il prezzo degli articoli è ben visibile fin da subito all'utente e non si ha nessun gambling click per scoprire il prezzo del prodotto. Il gambling click è da evitare in quanto l'utente deve cliccare col dubbio di fare qualcosa di giusto. Quando è presente il gambling click il gradimento del sito scende abbondantemente e i link vengono cliccati solamente il 30\% delle volte.
-	\\ 	Non vengono usate tecniche di fishing price, ossia utilizzare un prezzo estremamente conveniente per attirare l'attenzione dell'utente e nemmeno net price. Il prezzo è compreso di tasse ed eventuali spese di spedizioni le troviamo in ogni singolo prodotto cliccando il buttone delle spese di spedizione oppure nella pagina di riepologo del carrello.
+	\\ 	Non vengono usate tecniche di fishing price, ossia utilizzare un prezzo estremamente conveniente per attirare l'attenzione dell'utente. Il prezzo è compreso di tasse ed eventuali spese di spedizioni le troviamo in ogni singolo prodotto cliccando il buttone delle spese di spedizione oppure nella pagina di riepologo del carrello.
 	\newpage
 	\section{Valutazione}
 	\vspace{0.5cm}
